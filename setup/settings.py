@@ -29,7 +29,8 @@ INSTALLED_APPS = [
     'reviews',
     'rest_framework',
     'django_filters',
-    'admin_honeypot',
+    'admin_honeypot',  
+    'drf_yasg',
 ]
 
 MIDDLEWARE = [
