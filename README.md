@@ -1,4 +1,4 @@
-![ezgif-4-f070e5e770](https://github.com/JpCode01/escola-api-rest-react/assets/165571084/21f73da9-5fda-493d-81e5-633660d1ff93)
+![ezgif-7-1d90c955ff](https://github.com/user-attachments/assets/ca6049a2-fe33-4a5e-a497-7f13d268e5ae)
 
 <p align="left">
 <img loading="lazy" src="https://img.shields.io/badge/STATUS-FINALIZADO-GRAY?style=for-the-badge"/>
